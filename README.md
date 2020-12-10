@@ -1,2 +1,1 @@
-# curso-flutter-school-of-net-
-curso-flutter-school-of-net
+# Atividades desenvolvidas nos cursos de flutter da School of Net
